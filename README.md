@@ -1,6 +1,6 @@
 # **Arch-Darwin**
 An Arch linux splash screen for plymouth
-<img src="./arch-darwin.gif" alt="arch-darwin">
+<img src="./preview.gif" alt="arch-darwin">
 
 # Installation from AUR
 - Install and setup [Plymouth](https://wiki.archlinux.org/title/plymouth)
